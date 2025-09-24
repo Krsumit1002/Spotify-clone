@@ -30,6 +30,8 @@ spotify-clone/
 --> Project View
 ![Spotify Home](https://github.com/Krsumit1002/Spotify-clone/blob/bb4154a6568b4c5e32ba3002fe421cb5abc6a1fb/Sportify_home%20-%20Copy.png)
 
+![Music Page](https://github.com/Krsumit1002/Spotify-clone/blob/4f1b41af1cc89c986c8512a71ec63502ce82052f/Sportify_Music%20-%20Copy.png)
+
 --> ⚙️ Setup
 ```bash
 git clone https://github.com/your-username/spotify-clone.git
