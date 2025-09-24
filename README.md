@@ -28,7 +28,7 @@ spotify-clone/
 └── package.json
 
 --> Project View
-[!Spotify Home](https://github.com/Krsumit1002/Spotify-clone/blob/bb4154a6568b4c5e32ba3002fe421cb5abc6a1fb/Sportify_home%20-%20Copy.png)
+![Spotify Home](https://github.com/Krsumit1002/Spotify-clone/blob/bb4154a6568b4c5e32ba3002fe421cb5abc6a1fb/Sportify_home%20-%20Copy.png)
 
 --> ⚙️ Setup
 ```bash
