@@ -18,13 +18,21 @@ This project uses a static list of songs and provides basic music player functio
 
 --> Project Structure
 spotify-clone/
+
 ├── public/
+
 │ └── songs/ # Local MP3 files
+
 ├── src/
+
 │ ├── components/ # UI Components (Player, Sidebar, Navbar, etc.)
+
 │ ├── data/ # Song list
+
 │ ├── App.jsx
+
 │ └── index.js
+
 └── package.json
 
 --> Project View
